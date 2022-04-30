@@ -4,11 +4,6 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="orphaned-module-repro.commonMain" target="1.8" />
-      <module name="orphaned-module-repro.commonTest" target="1.8" />
-      <module name="orphaned-module-repro.jvmMain" target="1.8" />
-      <module name="orphaned-module-repro.jvmTest" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>
