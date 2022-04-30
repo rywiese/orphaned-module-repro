@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="orphaned-module-repro.commonMain" target="1.8" />
+      <module name="orphaned-module-repro.commonTest" target="1.8" />
+      <module name="orphaned-module-repro.jvmMain" target="1.8" />
+      <module name="orphaned-module-repro.jvmTest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
